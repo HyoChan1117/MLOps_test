@@ -26,7 +26,6 @@ outputs/
 *.onnx
 *.joblib
 *.pkl
-*.npy
 *.npz
 *.csv
 *.tsv
